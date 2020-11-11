@@ -11,13 +11,12 @@
  
 * :brain: I study everyday about programming and Linux. Practice makes perfect.
 * 💬 Let's talk about Language Technologies, Linux and Security.
-* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/%C3%ADgor-soares-7696731a2/) 
-* ⚡ Unbelievable fact: My first words were "Hello world". 
+* ⚡ Fun fact: My first words were "Hello world". 
 <br>
 <details>
-  <summary> <img src="https://img.shields.io/badge/-Click to know more about me-b03544?style=for-the-badge" /></summary>
+  <summary> <a href="https://www.github.com/igorsoares"><img src="https://img.shields.io/badge/-Click to know more about me-b03544?style=for-the-badge"/></a></summary>
   <br>
- <p> I like to play games sometimes on weekend, and in my spare time i like to study some topics (Linux, C#, Programming at all..) and read some books. Actually i'm studying to make test "Linux essentials", and soon LPIC1(and who knows a LPIC2 in the future). I've some interesting in C# , shell scripts and other languages...: </p>
+ <p> I like to play games 🎮 sometimes on weekend, and in my spare time i like to study some topics (Linux, C#, Programming at all..) and read some books. Actually i'm studying to make test "Linux essentials", and soon LPIC1(and who knows a LPIC2 in the future). I've some interesting in C# , shell scripts and other languages...: </p>
  <ul>
   <li> <a href="https://github.com/igorsoares/iCrypto"> iCrypto:</a> A software to encrypt and decrypt data; </li>
   <li> Chamados digitais - Prefeitura Municipal de Araçatuba: In development;</li>
