@@ -7,11 +7,10 @@
 
 ## Igor Henrique Soares 💻
 
-* 🔭 I’m a Student System Analysis and Development from UniToledo.
+* 🔭 I’m a Student System Analysis and Development from Estácio.
  
-* :brain: I study everyday about programming and Linux. Practice makes perfect.
+* :brain: I study programming and Linux. Practice makes perfect.
 * 💬 Let's talk about Language Technologies, Linux and Security.
-* ⚡ Fun fact: My first words were "Hello world". 
 <br>
 <details>
   <summary> <a href="https://www.github.com/igorsoares"><img src="https://img.shields.io/badge/-Click to know more about me-b03544?style=for-the-badge"/></a></summary>
