@@ -18,7 +18,6 @@
  <p> I like to play games 🎮 sometimes on weekend, and in my spare time i like to study some topics (Linux, C#, Programming at all..) and read some books. Actually i'm studying to make test "Linux essentials", and soon LPIC1(and who knows a LPIC2 in the future). I've some interesting in C# , shell scripts and other languages...: </p>
  <ul>
   <li> <a href="https://github.com/igorsoares/iCrypto"> iCrypto:</a> A software to encrypt and decrypt data; </li>
-  <li> Chamados digitais - Prefeitura Municipal de Araçatuba: In development;</li>
   <li> <a href="https://github.com/igorsoares/GLPI-Automate" > GLPI Automate </a> - Script on shellscript to download and install GLPI on RedHat based Linux.</li>
  </ul>
 </details>
