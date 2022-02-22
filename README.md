@@ -5,31 +5,10 @@
 </p>
 
 
-## Igor Henrique Soares 💻
-
-* 🔭 I’m a Student System Analysis and Development from Estácio.
- 
-* :brain: I study programming and Linux. Practice makes perfect.
-* 💬 Let's talk about Language Technologies, Linux and Security.
-<br>
-<details>
-  <summary> <a href="https://www.github.com/igorsoares"><img src="https://img.shields.io/badge/-Click to know more about me-b03544?style=for-the-badge"/></a></summary>
-  <br>
- <p> I like to play games 🎮 sometimes on weekend, and in my spare time i like to study some topics (Linux, C#, Programming at all..) and read some books. Actually i'm studying to make test "Linux essentials", and soon LPIC1(and who knows a LPIC2 in the future). I've some interesting in C# , shell scripts and other languages...: </p>
- <ul>
-  <li> <a href="https://github.com/igorsoares/iCrypto"> iCrypto:</a> A software to encrypt and decrypt data; </li>
-  <li> <a href="https://github.com/igorsoares/GLPI-Automate" > GLPI Automate </a> - Script on shellscript to download and install GLPI on RedHat based Linux.</li>
- </ul>
-</details>
-
-<h2 align="center"> You can reach me at: :world_map:</h2>
+<h2 align="center"> You can reach me at: </h2>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/%C3%ADgor-soares-7696731a2/"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width=40px height=40px> 
 </a> 
- <a href="https://www.facebook.com/igorsuculha"> <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width=40px height=40px> </a>
- <a href="https://api.whatsapp.com/send/?phone=5518981689040&text=Ola%2C+Igor%21&app_absent=0&lang=pt_br"> <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" alt="Whatsapp" width=40px height=40px>
-
-
 </p>
  
