@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Solinftec](https://www.solinftec.com)
+- 🔭 I’m currently working at [Solinftec](https://www.solinftec.com)
 
 - 🌱 I’m currently learning **Springboot, Kafka, Typescript, Vue.js and Tailwind**
 
